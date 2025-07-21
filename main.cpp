@@ -230,5 +230,6 @@ using namespace std;
 #include "S_334.h"
 #include "S_380.h"
 #include "S_374.h"
+#include "S_2300.h"
 
 #pragma endregion
