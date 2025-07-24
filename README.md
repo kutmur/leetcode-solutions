@@ -171,6 +171,7 @@ This repository contains a list of LeetCode problems I have solved along with th
 
 | Problem Number | Problem Name | Solution Link | LeetCode Link | Language |
 |---------------|-------------|--------------|--------------|----------|
+| 2            | Add Two Numbers | [Solution](https://github.com/EXPERT2007/leetcode-solutions/blob/main/medium/medium/S_2.cpp) | [LeetCode](https://leetcode.com/problems/add-two-numbers/solutions/6997884/add-two-numbers-linked-list-addition-by-3q7qz/) | C++ |
 | 3            | Longest Substring Without Repeating Characters | [Solution](https://github.com/EXPERT2007/leetcode-solutions/blob/main/medium/medium/S_3.cpp) | [LeetCode](https://leetcode.com/problems/longest-substring-without-repeating-characters/solutions/6897814/longest-substring-without-repeating-char-ize7/) | C++ |
 | 6            | Zigzag Conversion | [Solution](https://github.com/EXPERT2007/leetcode-solutions/blob/main/medium/medium/S_6.cpp) | [LeetCode](https://leetcode.com/problems/zigzag-conversion/solutions/6957971/zigzag-transformation-clean-and-fast-sol-qxsm/) | C++ |
 | 11            | Container With Most Water | [Solution](https://github.com/EXPERT2007/leetcode-solutions/blob/main/medium/medium/S_11.cpp) | [LeetCode](https://leetcode.com/problems/container-with-most-water/solutions/6376157/maximum-water-container-two-pointer-o-n-time-complexity/) | C++ |
