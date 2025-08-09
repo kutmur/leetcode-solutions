@@ -277,8 +277,9 @@ This repository contains a list of LeetCode problems I have solved along with th
 
 | Problem Number | Problem Name | Solution Link | LeetCode Link | Language |
 |---------------|-------------|--------------|--------------|----------|
-| 11            | N-Queens II | [Solution](https://github.com/EXPERT2007/leetcode-solutions/blob/main/hard/hard/S_52.cpp) | [LeetCode](https://leetcode.com/problems/n-queens-ii/solutions/6558778/efficient-n-queens-ii-solution-using-bit-cynf/) | C++ |
+| 4            | Median of Two Sorted Arrays | [Solution](https://github.com/EXPERT2007/leetcode-solutions/blob/main/hard/hard/S_4.cpp) | [LeetCode](https://leetcode.com/problems/median-of-two-sorted-arrays/solutions/7060131/median-via-merge-and-sort-straightforwar-i30r/) | C++ |
 | 42            | Trapping Rain Water | [Solution](https://github.com/EXPERT2007/leetcode-solutions/blob/main/hard/hard/S_42.cpp) | [LeetCode](https://leetcode.com/problems/trapping-rain-water/solutions/6890791/trapping-rain-water-a-pre-computation-ap-rv3t/) | C++ |
+| 52            | N-Queens II | [Solution](https://github.com/EXPERT2007/leetcode-solutions/blob/main/hard/hard/S_52.cpp) | [LeetCode](https://leetcode.com/problems/n-queens-ii/solutions/6558778/efficient-n-queens-ii-solution-using-bit-cynf/) | C++ |
 | 76            | Minimum Window Substring | [Solution](https://github.com/EXPERT2007/leetcode-solutions/blob/main/hard/hard/S_76.cpp) | [LeetCode](https://leetcode.com/problems/minimum-window-substring/solutions/6910082/efficient-sliding-window-for-minimum-win-b4cy/) | C++ |
 | 84            | Largest Rectangle in Histogram | [Solution](https://github.com/EXPERT2007/leetcode-solutions/blob/main/hard/hard/S_84.cpp) | [LeetCode](https://leetcode.com/problems/largest-rectangle-in-histogram/solutions/7043961/maximal-histogram-rectangle-by-expert07-ig6r/) | C++ |
 | 135            | Candy | [Solution](https://github.com/EXPERT2007/leetcode-solutions/blob/main/hard/hard/S_135.cpp) | [LeetCode](https://leetcode.com/problems/candy/solutions/6954867/optimal-greedy-distribution-for-children-b5f4/) | C++ |
