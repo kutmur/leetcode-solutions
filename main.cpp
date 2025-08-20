@@ -285,5 +285,6 @@ using namespace std;
 #include "S_846.h"
 #include "S_287.h"
 #include "S_146.h"
+#include "S_1282.h"
 
 #pragma endregion
