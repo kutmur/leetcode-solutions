@@ -331,7 +331,7 @@ This repository contains a list of LeetCode problems I have solved along with th
 
 ## LeetCode Profile
 
-For more explanations and solutions, check out my [LeetCode profile](https://leetcode.com/u/expert07/).
+For more explanations and solutions, check out my [LeetCode profile](https://leetcode.com/u/kutmur/).
 
 ---
 
