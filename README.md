@@ -328,9 +328,6 @@ This repository contains a list of LeetCode problems I have solved along with th
 | 224            | Basic Calculator | [Solution](https://github.com/EXPERT2007/leetcode-solutions/blob/main/hard/hard/S_224.cpp) | [LeetCode](https://leetcode.com/problems/basic-calculator/solutions/7030059/basic-calculator-parentheses-and-signs-h-o733/) | C++ |
 | 239            | Sliding Window Maximum | [Solution](https://github.com/EXPERT2007/leetcode-solutions/blob/main/hard/hard/S_239.cpp) | [LeetCode](https://leetcode.com/problems/sliding-window-maximum/solutions/6913372/sliding-window-maximum-block-preprocessi-gu2l/) | C++ |
 
-### Adding New Problems
-
-When new problems are solved, update the tables above to keep the README file up to date.
 
 ## LeetCode Profile
 
