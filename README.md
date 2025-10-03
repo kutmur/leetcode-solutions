@@ -335,6 +335,7 @@ This repository contains a list of LeetCode problems I have solved along with th
 | 149            | Max Points on a Line | [Solution](https://github.com/EXPERT2007/leetcode-solutions/blob/main/hard/hard/S_149.cpp) | [LeetCode](https://leetcode.com/problems/max-points-on-a-line/solutions/7151341/max-points-on-a-line-by-kutmur-o52c/) | C++ |
 | 224            | Basic Calculator | [Solution](https://github.com/EXPERT2007/leetcode-solutions/blob/main/hard/hard/S_224.cpp) | [LeetCode](https://leetcode.com/problems/basic-calculator/solutions/7030059/basic-calculator-parentheses-and-signs-h-o733/) | C++ |
 | 239            | Sliding Window Maximum | [Solution](https://github.com/EXPERT2007/leetcode-solutions/blob/main/hard/hard/S_239.cpp) | [LeetCode](https://leetcode.com/problems/sliding-window-maximum/solutions/6913372/sliding-window-maximum-block-preprocessi-gu2l/) | C++ |
+| 407            | Trapping Rain Water II | [Solution](https://github.com/EXPERT2007/leetcode-solutions/blob/main/hard/hard/S_407.cpp) | [LeetCode](https://leetcode.com/problems/trapping-rain-water-ii/solutions/7245938/trapping-rainwater-in-a-2d-height-map-by-v0pr/) | C++ |
 
 
 ## LeetCode Profile
