@@ -2,7 +2,8 @@
     "files.associations": {
         "*.sql": "cpp",
         "iostream": "cpp",
-        "array": "cpp"
+        "array": "cpp",
+        "vector": "cpp"
     },
     "python-envs.defaultEnvManager": "ms-python.python:conda",
     "python-envs.defaultPackageManager": "ms-python.python:conda",

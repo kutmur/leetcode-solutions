@@ -331,5 +331,6 @@ using namespace std;
 #include "S_1466.h"
 #include "S_507.h"
 #include "S_399.h"
+#include "S_1926.h"
 
 #pragma endregion
