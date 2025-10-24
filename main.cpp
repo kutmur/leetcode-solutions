@@ -345,4 +345,6 @@ using namespace std;
 #include "S_1899.h"
 #include "S_1861.h"
 #include "S_3461.h"
+#include "S_2048.h"
+
 #pragma endregion
