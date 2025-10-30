@@ -351,5 +351,6 @@ using namespace std;
 #include "S_2125.h"
 #include "S_3354.h"
 #include "S_3370.h"
+#include "S_1526.h"
 
 #pragma endregion
