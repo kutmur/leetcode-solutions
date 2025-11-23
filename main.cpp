@@ -375,5 +375,6 @@ using namespace std;
 #include "S_234.h"
 #include "S_3507.h"
 #include "S_237.h"
+#include "S_1262.h"
 
 #pragma endregion
