@@ -380,5 +380,6 @@ using namespace std;
 #include "S_2807.h"
 #include "S_2181.h"
 #include "S_1669.h"
+#include "S_1290.h"
 
 #pragma endregion
