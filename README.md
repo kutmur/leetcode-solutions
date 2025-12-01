@@ -219,6 +219,7 @@ This repository contains a list of LeetCode problems I have solved along with th
 | 3516          | Find Closest Person | [Solution](https://github.com/EXPERT2007/leetcode-solutions/blob/main/easy/easy/S_3516.cpp)  | [LeetCode](https://leetcode.com/problems/find-closest-person/solutions/6688034/proximity-comparator-by-expert07-khr3/) | C++ |
 | 3541          | Find Most Frequent Vowel and Consonant | [Solution](https://github.com/EXPERT2007/leetcode-solutions/blob/main/easy/easy/S_3541.cpp)  | [LeetCode](https://leetcode.com/problems/find-most-frequent-vowel-and-consonant/solutions/6813015/max-sum-of-highest-frequency-vowel-and-c-f9hn/) | C++ |
 | 3668          | Restore Finishing Order | [Solution](https://github.com/EXPERT2007/leetcode-solutions/blob/main/easy/easy/S_3668.cpp)  | [LeetCode](https://leetcode.com/problems/restore-finishing-order/solutions/7380854/restore-finishing-order-by-kutmur-5ynl/) | C++ |
+| 3701          | Compute Alternating Sum | [Solution](https://github.com/EXPERT2007/leetcode-solutions/blob/main/easy/easy/S_3701.cpp)  | [LeetCode](https://leetcode.com/problems/compute-alternating-sum/solutions/7385475/compute-alternating-sum-by-kutmur-jbj7/) | C++ |
 
 ## Medium Problems
 
