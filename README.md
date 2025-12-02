@@ -33,77 +33,37 @@ Each solution consists of:
 ### Prerequisites
 
 - C++17 compatible compiler (GCC, Clang, MSVC)
-- CMake 3.10 or higher (optional, for cross-platform builds)
+- CMake 3.10 or higher (optional)
 
-### Using CMake (Recommended)
+### Building the Info Program
+
+The repository includes a simple info program that can be built to verify the setup:
 
 ```bash
-# Create a build directory
+# Using CMake
 mkdir build && cd build
-
-# Generate build files
 cmake ..
-
-# Build the project
 cmake --build .
-
-# Run the info program
 ./leetcode_info       # On Linux/macOS
-leetcode_info.exe     # On Windows
 ```
 
-### Testing Individual Solutions
+### Using the Solutions
 
-Since all solution classes are named `Solution`, they cannot be compiled together. To test a specific solution:
+This repository is a **reference library** for LeetCode solutions. The solutions are meant to be:
 
-1. **Create a test file** (e.g., `test_problem_1.cpp`):
+1. **Viewed on GitHub**: Browse solution files to understand the approach
+2. **Copied to LeetCode**: Copy implementations directly into LeetCode's online editor
+3. **Used as reference**: Review solution structures and algorithms
 
-```cpp
-#include <iostream>
-#include <vector>
-#include "easy/S_1.h"
-
-int main() {
-    Solution sol;
-    std::vector<int> nums = {2, 7, 11, 15};
-    int target = 9;
-    std::vector<int> result = sol.twoSum(nums, target);
-    
-    std::cout << "Result: [" << result[0] << ", " << result[1] << "]" << std::endl;
-    return 0;
-}
-```
-
-2. **Compile with g++**:
-
-```bash
-g++ -std=c++17 -I src test_problem_1.cpp src/easy/S_1.cpp -o test_problem_1
-./test_problem_1
-```
-
-3. **Or add to CMakeLists.txt**:
-
-```cmake
-add_executable(test_problem_1 test_problem_1.cpp src/easy/S_1.cpp)
-```
-
-### Alternative: Direct Compilation
-
-You can compile any solution directly:
-
-```bash
-# Example: Compile problem 412 (FizzBuzz)
-g++ -std=c++17 -I src -c src/easy/S_412.cpp -o S_412.o
-```
+**Note**: Most implementation files (`.cpp`) contain commented code because solutions are designed for LeetCode's platform, not for local compilation. The header files (`.h`) show the method signatures and class structure.
 
 ## Code Organization
 
-Each solution follows the LeetCode structure:
-- Class name: `Solution`
-- Method names match the LeetCode problem
-- Standard library includes as needed
+Each solution consists of:
+- **Header file** (`.h`): Contains the solution class definition and method signatures
+- **Implementation file** (`.cpp`): Contains commented reference implementations
 
-**Note**: The solutions are designed to be copied directly into LeetCode's editor. The repository structure provides organization and version control.
+**Important Note**: Most implementations in `.cpp` files are commented out, as these solutions are designed to be copied into LeetCode's online editor. The repository serves as an organized reference library rather than a fully compilable codebase. Each solution is meant to be used individually on LeetCode's platform.
 
 ## Repository History
 
