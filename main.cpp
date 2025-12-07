@@ -390,5 +390,6 @@ using namespace std;
 #include "S_2211.h"
 #include "S_3432.h"
 #include "S_744.h"
+#include "S_1523.h"
 
 #pragma endregion
