@@ -396,5 +396,6 @@ using namespace std;
 #include "S_3005.h"
 #include "S_3531.h"
 #include "S_232.h"
+#include "S_622.h"
 
 #pragma endregion
