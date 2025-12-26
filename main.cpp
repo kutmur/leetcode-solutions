@@ -407,5 +407,6 @@ using namespace std;
 #include "S_1337.h"
 #include "S_3074.h"
 #include "S_3075.h"
+#include "S_2483.h"
 
 #pragma endregion
