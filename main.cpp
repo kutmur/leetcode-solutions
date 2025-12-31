@@ -412,5 +412,6 @@ using namespace std;
 #include "S_39.h"
 #include "S_326.h"
 #include "S_840.h"
+#include "S_1970.h"
 
 #pragma endregion
