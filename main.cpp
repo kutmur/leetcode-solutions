@@ -424,5 +424,6 @@ using namespace std;
 #include "S_2363.h"
 #include "S_1323.h"
 #include "S_3142.h"
+#include "S_1266.h"
 
 #pragma endregion
