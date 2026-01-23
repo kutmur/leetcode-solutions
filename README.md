@@ -245,6 +245,7 @@ This repository contains a list of LeetCode problems I have solved along with th
 | 3606          | Coupon Code Validator | [Solution](https://github.com/EXPERT2007/leetcode-solutions/blob/main/easy/easy/S_3606.cpp)  | [LeetCode](https://leetcode.com/problems/coupon-code-validator/solutions/7410804/e-commerce-discount-sanitizer-categorica-f779/) | C++ |
 | 3668          | Restore Finishing Order | [Solution](https://github.com/EXPERT2007/leetcode-solutions/blob/main/easy/easy/S_3668.cpp)  | [LeetCode](https://leetcode.com/problems/restore-finishing-order/solutions/7380854/restore-finishing-order-by-kutmur-5ynl/) | C++ |
 | 3701          | Compute Alternating Sum | [Solution](https://github.com/EXPERT2007/leetcode-solutions/blob/main/easy/easy/S_3701.cpp)  | [LeetCode](https://leetcode.com/problems/compute-alternating-sum/solutions/7385475/compute-alternating-sum-by-kutmur-jbj7/) | C++ |
+| 3813          | Vowel-Consonant Score | [Solution](https://github.com/EXPERT2007/leetcode-solutions/blob/main/easy/easy/S_3813.cpp)  | [LeetCode](https://leetcode.com/problems/vowel-consonant-score/solutions/7517169/lexical-density-scorer-vowelconsonant-ra-zikp/) | C++ |
 
 ## Medium Problems
 
