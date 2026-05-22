@@ -442,5 +442,6 @@ using namespace std;
 #include "S_3650.h"
 #include "S_2657.h"
 #include "S_3043.h"
+#include "S_936.h"
 
 #pragma endregion
