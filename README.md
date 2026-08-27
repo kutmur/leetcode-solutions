@@ -440,6 +440,7 @@ This repository contains a list of LeetCode problems I have solved along with th
 | 3531          | Count Covered Buildings | [Solution](https://github.com/kutmur/leetcode-solutions/blob/main/medium/medium/S_3531.cpp) | [LeetCode](https://leetcode.com/problems/count-covered-buildings/solutions/7406268/count-covered-buildings-by-kutmur-69vt/) | C++ |
 | 3583          | Count Special Triplets | [Solution](https://github.com/kutmur/leetcode-solutions/blob/main/medium/medium/S_3583.cpp) | [LeetCode](https://leetcode.com/problems/count-special-triplets/solutions/7402162/count-special-triplets-by-kutmur-m5y9/) | C++ |
 | 3650          | Minimum Cost Path with Edge Reversals | [Solution](https://github.com/kutmur/leetcode-solutions/blob/main/medium/medium/S_3650.cpp) | [LeetCode](https://leetcode.com/problems/minimum-cost-path-with-edge-reversals/solutions/7528277/asymmetric-weighted-shortest-path-by-kut-0dy6/) | C++ |
+| 3720          | Lexicographically Smallest Permutation Greater Than Target | [Solution](https://github.com/kutmur/leetcode-solutions/blob/main/medium/medium/S_3720.cpp) | [LeetCode](https://leetcode.com/problems/lexicographically-smallest-permutation-greater-than-target/solutions/8485481/lexicographically-greater-permutation-on-x496/) | C++ |
 
 ## Hard Problems
 
