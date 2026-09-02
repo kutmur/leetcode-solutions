@@ -259,6 +259,7 @@ This repository contains a list of LeetCode problems I have solved along with th
 | 3718          | Smallest Missing Multiple of K | [Solution](https://github.com/kutmur/leetcode-solutions/blob/main/easy/easy/S_3718.cpp)  | [LeetCode](https://leetcode.com/problems/smallest-missing-multiple-of-k/solutions/8481369/hash-set-traversal-on-time-on-space-c-fi-k3te/) | C++ |
 | 3731          | Find Missing Elements | [Solution](https://github.com/kutmur/leetcode-solutions/blob/main/easy/easy/S_3731.cpp)  | [LeetCode](https://leetcode.com/problems/find-missing-elements/solutions/8441427/on-log-n-k-log-k-time-ok-space-hash-map-38zty/) | C++ |
 | 3813          | Vowel-Consonant Score | [Solution](https://github.com/kutmur/leetcode-solutions/blob/main/easy/easy/S_3813.cpp)  | [LeetCode](https://leetcode.com/problems/vowel-consonant-score/solutions/7517169/lexical-density-scorer-vowelconsonant-ra-zikp/) | C++ |
+| 3875          | Construct Uniform Parity Array I | [Solution](https://github.com/kutmur/leetcode-solutions/blob/main/easy/easy/S_3875.cpp)  | [LeetCode](https://leetcode.com/problems/construct-uniform-parity-array-i/solutions/8496981/constant-evaluation-o1-time-o1-space-c-u-josg/) | C++ |
 
 ## Medium Problems
 
