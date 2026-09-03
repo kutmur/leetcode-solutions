@@ -444,6 +444,7 @@ This repository contains a list of LeetCode problems I have solved along with th
 | 3583          | Count Special Triplets | [Solution](https://github.com/kutmur/leetcode-solutions/blob/main/medium/medium/S_3583.cpp) | [LeetCode](https://leetcode.com/problems/count-special-triplets/solutions/7402162/count-special-triplets-by-kutmur-m5y9/) | C++ |
 | 3650          | Minimum Cost Path with Edge Reversals | [Solution](https://github.com/kutmur/leetcode-solutions/blob/main/medium/medium/S_3650.cpp) | [LeetCode](https://leetcode.com/problems/minimum-cost-path-with-edge-reversals/solutions/7528277/asymmetric-weighted-shortest-path-by-kut-0dy6/) | C++ |
 | 3720          | Lexicographically Smallest Permutation Greater Than Target | [Solution](https://github.com/kutmur/leetcode-solutions/blob/main/medium/medium/S_3720.cpp) | [LeetCode](https://leetcode.com/problems/lexicographically-smallest-permutation-greater-than-target/solutions/8485481/lexicographically-greater-permutation-on-x496/) | C++ |
+| 3876          | Construct Uniform Parity Array II | [Solution](https://github.com/kutmur/leetcode-solutions/blob/main/medium/medium/S_3876.cpp) | [LeetCode](https://leetcode.com/problems/construct-uniform-parity-array-ii/solutions/8498980/single-pass-parity-validation-on-time-o1-4rp4/) | C++ |
 
 ## Hard Problems
 
